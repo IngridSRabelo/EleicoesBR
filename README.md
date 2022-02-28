@@ -4,7 +4,7 @@
 Analisar a despesa eleitoral média dos candidatos a deputado federal nas eleições federais de 2018. 
 O foco é comparar as despesas eleitorais médias desses candidatos entre os estados e também entre os partidos.
 Também é de interesse comparar a despesa eleitoral média geral dos candidatos a despesa eleitoral média dos candidatos eleitos,
-por estado e por partido.
+por estado e por partido. O projeto é realizado em Python.
 
 ## Como usar
 
