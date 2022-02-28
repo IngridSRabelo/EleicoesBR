@@ -41,6 +41,9 @@ dir = os.path.dirname(__file__)
 out_dir = os.path.abspath(os.path.join(dir, '..', 'out'))
 data_file_path = os.path.join(out_dir, 'data.json')
 
+if (not os.path.isdir(out_dir)):
+    os.mkdir(out_dir)
+
 with open(data_file_path, 'w') as f:
     f.write(result)
     f.close()
