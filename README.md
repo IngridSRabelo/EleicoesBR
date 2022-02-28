@@ -1,4 +1,4 @@
-# Eleições Brasileiras: Despesas eleitorais dos candidatos a deputados federais (2018)
+# Eleições Brasileiras: Despesas eleitorais dos candidatos a deputado federal (2018)
 
 ## Objetivo Geral: 
 Analisar a despesa eleitoral média dos candidatos a deputado federal nas eleições federais de 2018. 
