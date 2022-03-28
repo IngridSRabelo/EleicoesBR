@@ -25,7 +25,7 @@ FROM basedosdados.br_tse_eleicoes.despesas_candidato
 WHERE ano = 2018 AND cargo = 'deputado federal'
 """
 db1 = bd.read_sql(query1, billing_project_id='natural-axiom-342415')
-
+#comment
 query2 = """
 SELECT id_candidato_bd, resultado
 FROM basedosdados.br_tse_eleicoes.resultados_candidato
