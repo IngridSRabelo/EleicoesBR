@@ -1,6 +1,9 @@
 import basedosdados as bd
+
 import pandas as pd
+
 import json
+
 import os
 
 bd.list_dataset_tables(dataset_id='br_tse_eleicoes', with_description=True)
