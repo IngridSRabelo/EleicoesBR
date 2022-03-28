@@ -15,6 +15,7 @@ bd.get_table_columns(
 
 bd.get_table_columns(
     dataset_id='br_tse_eleicoes',
+    
     table_id='resultados_candidato'
 )
 
